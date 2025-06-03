@@ -68,6 +68,10 @@ This application provides a platform for managing stores and collecting user rat
 - View all stores with Name, Email, Address, and Rating
 - Comprehensive store oversight
 
+**❗Database Management**
+- Access and view all database records through Prisma Studio
+- Real-time database inspection and management capabilities
+
 **Account Management**
 - Secure logout functionality
 
