@@ -43,6 +43,25 @@ npm run dev
 
 This application provides a platform for managing stores and collecting user ratings with role-based access control. The system supports three user types with distinct functionalities and permissions.
 
+## Test Credentials
+
+## ❗System Administrator
+
+**Email: admin@something.com**
+**Password: Admin@123**
+
+## Normal Users & Store Owners
+
+1. **niranjan@gmail.com - Password: Niranjan@1234**
+2. **shubham@gmail.com - Password: Shubh@1234**
+3. **nikhil@gmail.com - Password: Nikhil@2003**
+4. **saurabh@gmail.com - Password: Sau@1234**
+5. **vivek@gmail.com - Password: Vivek@2003**
+6. **DOwner@gmail.com - Password: DMart@2003**
+7. **Rugwed@gmail.com - Password: rug@2003**
+8. **abhinav@gmail.com - Password: Abhi@2003**
+9. **devendra.salokhe07@gmail.com - Password: Dev@2003**
+
 ## User Roles & Functionalities
 
 ### 👨‍💻System Administrator
@@ -209,10 +228,6 @@ The application provides comprehensive REST API endpoints for:
 ## Contributing
 
 Follow the established coding standards and best practices when contributing to this project. Ensure all form validations are properly implemented and tested.
-
-## License
-
-[Add your license information here]
 
 ---
 
